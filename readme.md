@@ -31,24 +31,24 @@ This Project uses Clarifai API to detect face in an image. It helps to detect fa
 
 #### Preview
 
-![Alt text](/Djnago_vendor_previews/1.png "Optional title")
+![Alt text](/social-media/1.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/2.png "Optional title")
+![Alt text](/social-media/2.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/3.png "Optional title")
+![Alt text](/social-media/3.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/4.png "Optional title")
+![Alt text](/social-media/4.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/5.png "Optional title")
+![Alt text](/social-media/5.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/6.png "Optional title")
+![Alt text](/social-media/6.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/7.png "Optional title")
+![Alt text](/social-media/7.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/8.png "Optional title")
+![Alt text](/social-media/8.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/9.png "Optional title")
+![Alt text](/social-media/9.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/10.png "Optional title")
+![Alt text](/social-media/10.png "Optional title")
 
-![Alt text](/Djnago_vendor_previews/11.png "Optional title")
+![Alt text](/social-media/11.png "Optional title")
